@@ -16,7 +16,7 @@ Improves phrasing for better readability and grammatical correctness.
 Seamless Integration:
 
 Works in any text area or input field on websites.
-How It Works
+## How It Works
 The extension monitors text input fields in the browser.
 When the user types more than 2 characters, the extension sends the text to the Allam LLM grammar-checking model via a locally hosted server.
 Allam LLM analyzes the text and returns:
