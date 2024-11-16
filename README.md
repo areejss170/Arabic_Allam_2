@@ -1,8 +1,8 @@
-Allam LLM Arabic Grammar Checker Chrome Extension
+# Allam LLM Arabic Grammar Checker Chrome Extension
 Overview
 This Chrome extension uses Allam LLM, an advanced Arabic language model, to detect and correct grammar mistakes in Arabic text. The extension enhances Arabic writing by providing accurate grammar corrections and improved text phrasing directly within any text box in the browser.
 
-Features
+## Features
 Real-Time Grammar Checking:
 
 Detects grammatical errors in Arabic text as users type.
